@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "DBOS Decorator function (TypeScript)",
   "devDependencies": {
     "typescript": "^5.8.3"
   }
