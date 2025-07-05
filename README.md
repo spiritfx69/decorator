@@ -1,5 +1,8 @@
 # TypeScript decorator example
 
+A simple TypeScript example that mimics how DBOS (or a similar durable execution engine) uses decorators like @Workflow and @Step to implement durable workflows.
+This will not be fully durable (no real database), but it simulates the architecture and behavior using in-memory state. It shows you how decorators can be used to structure durable workflows.
+
 ## Add neccesary things to local files
 * git clone https://github.com/spiritfx69/decorator
 * cd decorator
