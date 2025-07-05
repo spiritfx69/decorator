@@ -1,4 +1,4 @@
-# DBOS Decorator function (TypeScript)
+# TypeScript decorator example
 
 ## Add neccesary things to local files
 * git clone https://github.com/spiritfx69/decorator
