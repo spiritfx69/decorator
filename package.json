@@ -13,5 +13,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiritfxxxx/decorator.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/spiritfxxxx/decorator/issues"
+  },
+  "homepage": "https://github.com/spiritfxxxx/decorator#readme"
 }
