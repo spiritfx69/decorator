@@ -19,3 +19,6 @@
 * add to package.json
 * "build": "tsc",
 * "start": "node index.js",
+
+## Reference
+* [GitHub: Typescript Decorators Examples](https://github.com/arolson101/typescript-decorators/tree/master)
